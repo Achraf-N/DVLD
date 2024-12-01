@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Repeat\Project\DVLD Project\DataAccessLayer\bin\Debug\DataAccessLayer.exe.config
+C:\Users\ASUS\Desktop\Repeat\Project\DVLD Project\DataAccessLayer\bin\Debug\DataAccessLayer.exe
+C:\Users\ASUS\Desktop\Repeat\Project\DVLD Project\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\ASUS\Desktop\Repeat\Project\DVLD Project\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Repeat\Project\DVLD Project\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Repeat\Project\DVLD Project\DataAccessLayer\obj\Debug\DataAccessLayer.exe
+C:\Users\ASUS\Desktop\Repeat\Project\DVLD Project\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\gitwork\DVLD Project\DataAccessLayer\bin\Debug\DataAccessLayer.exe.config
+C:\gitwork\DVLD Project\DataAccessLayer\bin\Debug\DataAccessLayer.exe
+C:\gitwork\DVLD Project\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\gitwork\DVLD Project\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\gitwork\DVLD Project\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\gitwork\DVLD Project\DataAccessLayer\obj\Debug\DataAccessLayer.exe
+C:\gitwork\DVLD Project\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

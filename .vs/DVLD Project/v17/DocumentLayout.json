@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\gitwork\\DVLD Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5596D8C2-2CFD-4B3E-9657-192E5B6724FF}|DataAccessLayer\\DataAccessLayer.csproj|C:\\gitwork\\DVLD Project\\dataaccesslayer\\clsdatacontrolconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5596D8C2-2CFD-4B3E-9657-192E5B6724FF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\clsdatacontrolconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27FC9ED3-0391-444C-8299-464BC8B3F825}|DVLD Project\\DVLD Project.csproj|c:\\gitwork\\dvld project\\dvld project\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27FC9ED3-0391-444C-8299-464BC8B3F825}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27FC9ED3-0391-444C-8299-464BC8B3F825}|DVLD Project\\DVLD Project.csproj|c:\\gitwork\\dvld project\\dvld project\\people\\managepeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27FC9ED3-0391-444C-8299-464BC8B3F825}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\people\\managepeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27FC9ED3-0391-444C-8299-464BC8B3F825}|DVLD Project\\DVLD Project.csproj|C:\\gitwork\\DVLD Project\\dvld project\\people\\managepeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27FC9ED3-0391-444C-8299-464BC8B3F825}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\people\\managepeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5596D8C2-2CFD-4B3E-9657-192E5B6724FF}|DataAccessLayer\\DataAccessLayer.csproj|C:\\gitwork\\DVLD Project\\dataaccesslayer\\clsdatapeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5596D8C2-2CFD-4B3E-9657-192E5B6724FF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\clsdatapeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\gitwork\\DVLD Project\\DVLD Project\\Login\\frmLogin.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\Login\\frmLogin.cs",
+              "ToolTip": "C:\\gitwork\\DVLD Project\\DVLD Project\\Login\\frmLogin.cs [Design]",
+              "RelativeToolTip": "DVLD Project\\Login\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T16:42:47.347Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManagePeople.cs",
+              "DocumentMoniker": "C:\\gitwork\\DVLD Project\\DVLD Project\\People\\ManagePeople.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\People\\ManagePeople.cs",
+              "ToolTip": "C:\\gitwork\\DVLD Project\\DVLD Project\\People\\ManagePeople.cs",
+              "RelativeToolTip": "DVLD Project\\People\\ManagePeople.cs",
+              "ViewState": "AQIAANkAAAAAAAAAAAAuwOoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T09:23:24.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManagePeople.cs [Design]",
+              "DocumentMoniker": "C:\\gitwork\\DVLD Project\\DVLD Project\\People\\ManagePeople.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\People\\ManagePeople.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Project c shap and R\\Project\\DVLD Project\\DVLD Project\\People\\ManagePeople.cs [Design]",
+              "RelativeToolTip": "..\\..\\Users\\ASUS\\Desktop\\Project c shap and R\\Project\\DVLD Project\\DVLD Project\\People\\ManagePeople.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T09:23:20.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsDataPeople.cs",
+              "DocumentMoniker": "C:\\gitwork\\DVLD Project\\DataAccessLayer\\clsDataPeople.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\clsDataPeople.cs",
+              "ToolTip": "C:\\gitwork\\DVLD Project\\DataAccessLayer\\clsDataPeople.cs",
+              "RelativeToolTip": "DataAccessLayer\\clsDataPeople.cs",
+              "ViewState": "AQIAAHYBAAAAAAAAAAAAAJkBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T08:11:45.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsDataControlConnection.cs",
+              "DocumentMoniker": "C:\\gitwork\\DVLD Project\\DataAccessLayer\\clsDataControlConnection.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\clsDataControlConnection.cs",
+              "ToolTip": "C:\\gitwork\\DVLD Project\\DataAccessLayer\\clsDataControlConnection.cs",
+              "RelativeToolTip": "DataAccessLayer\\clsDataControlConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T08:08:16.953Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
